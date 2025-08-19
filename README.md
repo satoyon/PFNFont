@@ -10,7 +10,7 @@ The PFNFont class is designed to be platform-independent, requiring no specific 
 
 ---
 (Japanese)
-PFNFontは、MicroPythonのために作成された[Pinot Font](https://github.com/yoshinari-nomura/pinot)を使って、任意のディスプレイデバイスに日本語キャラクタを出力するためのライブラリです。[Pinot Font](https://github.com/yoshinari-nomura/pinot)はシンプル、かつUnicodeコードポイントでソートされているため、非力なマイクロコントローラでもUTF-8の文字列を高速に表示できる特徴があります。[Pinot Font](https://github.com/yoshinari-nomura/pinot)の詳細はオリジナルの説明を参照してください。
+PFNFontは、MicroPythonのために作成された[Pinot Font](https://github.com/yoshinari-nomura/pinot)を使って、任意のディスプレイデバイスに日本語キャラクタを出力するためのArduino向けのライブラリです。[Pinot Font](https://github.com/yoshinari-nomura/pinot)はシンプル、かつUnicodeコードポイントでソートされているため、非力なマイクロコントローラでもUTF-8の文字列を高速に表示できる特徴があります。[Pinot Font](https://github.com/yoshinari-nomura/pinot)の詳細はオリジナルの説明を参照してください。
 
 PFNFontクラスはディスプレイデバイスや、マイクロコントローラのアーキテクチャに依存していないので、（おそらくは）すべてのArduinoファミリーで利用できるはずです。
 
